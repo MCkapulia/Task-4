@@ -1,0 +1,3 @@
+﻿  FileSystem.cpp
+D:\Projects OS\Task-4\FileSystem\FileSystem.cpp(98,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  FileSystem.vcxproj -> D:\Projects OS\Task-4\x64\Debug\FileSystem.exe
